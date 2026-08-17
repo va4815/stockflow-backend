@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb8da163-ec29-4fff-ae60-d5cbfb9f32fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/classes/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/va4815/stockflow/StockflowBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/va4815/stockflow/StockflowBackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/va4815/stockflow/StockflowBackendApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/com/va4815/stockflow/StockflowBackendApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="13" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.007653416407770571" />
+      <entry key="MS500" value="0.44747795966329523" />
+      <entry key="S2" value="1.2983604403692837" />
+      <entry key="S5" value="1.6737705529296858" />
+      <entry key="S10" value="1.8280133042676723" />
+      <entry key="S30" value="1.940562920608487" />
+      <entry key="S60" value="1.9700088859321607" />
+      <entry key="M2" value="1.9849356002988496" />
+      <entry key="M5" value="1.993957627530456" />
+      <entry key="M10" value="1.9969760374348566" />
+      <entry key="M15" value="1.9979834074325515" />
+      <entry key="M30" value="1.9989913948137121" />
+      <entry key="H1" value="1.9994956201548493" />
+      <entry key="H2" value="1.999747790761126" />
+      <entry key="H4" value="1.9998738905510762" />
+      <entry key="D1" value="1.9999789810877155" />
+      <entry key="W1" value="1.999996997281817" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9330348727758184" />
+      <entry key="MS500" value="1.0686637525634328" />
+      <entry key="S2" value="1.8364546762002674" />
+      <entry key="S5" value="2.4028839019128694" />
+      <entry key="S10" value="2.673315387895633" />
+      <entry key="S30" value="2.884134157403981" />
+      <entry key="S60" value="2.9411462174537317" />
+      <entry key="M2" value="2.9703390006574666" />
+      <entry key="M5" value="2.988078908149799" />
+      <entry key="M10" value="2.994029962874144" />
+      <entry key="M15" value="2.9960178629324425" />
+      <entry key="M30" value="2.9980078745162557" />
+      <entry key="H1" value="2.999003672872127" />
+      <entry key="H2" value="2.99950177032099" />
+      <entry key="H4" value="2.9997508686294045" />
+      <entry key="D1" value="2.999958475808719" />
+      <entry key="W1" value="2.9999940679164387" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3I2TyjAibG9wHFdcubR8j1Wc8MF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.StockflowBackendApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/vincent/va543567/forkRepository/MyGithub/stockflow/stockflow-backend/stockflow-backend/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StockflowBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="stockflow-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.va4815.stockflow.StockflowBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.27258.48" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.27258.48" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb8da163-ec29-4fff-ae60-d5cbfb9f32fd" name="Changes" comment="" />
+      <created>1786961919501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786961919501</updated>
+      <workItem from="1786961920515" duration="1887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
