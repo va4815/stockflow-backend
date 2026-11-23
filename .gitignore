@@ -1,5 +1,7 @@
 .idea/
+.claude/
 .DS_Store
+.env
 
 ### Java ###
 # Compiled class file
@@ -158,4 +160,3 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
-
