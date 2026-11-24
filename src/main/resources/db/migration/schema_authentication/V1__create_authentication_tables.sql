@@ -18,13 +18,13 @@ CREATE TABLE schema_authentication.t_permission
     CONSTRAINT uk_permission_code UNIQUE (code)
 );
 
-CREATE TABLE schema_authentication.t_locale
+CREATE TABLE schema_authentication.t_language
 (
     id      INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     code    VARCHAR(10) NOT NULL,
     name    VARCHAR(100),
     enabled BOOLEAN     NOT NULL DEFAULT TRUE,
-    CONSTRAINT uk_locale_code UNIQUE (code)
+    CONSTRAINT uk_language_code UNIQUE (code)
 );
 
 
@@ -71,8 +71,8 @@ CREATE TABLE schema_authentication.t_user_setting
     CONSTRAINT uk_user_setting_user_account UNIQUE (user_account_id),
     CONSTRAINT fk_user_setting_user_account
         FOREIGN KEY (user_account_id) REFERENCES t_user_account (id) ON DELETE CASCADE,
-    CONSTRAINT fk_user_setting_locale
-        FOREIGN KEY (language_code) REFERENCES t_locale (code)
+    CONSTRAINT fk_user_setting_language
+        FOREIGN KEY (language_code) REFERENCES t_language (code)
 );
 
 -- t_user_account_group
